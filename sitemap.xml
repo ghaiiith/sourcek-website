@@ -1,0 +1,96 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://sourcek.net/</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://sourcek.net/?lang=ar"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sourcek.net/?lang=en"/>
+    </url>
+    
+    <!-- About Section -->
+    <url>
+        <loc>https://sourcek.net/#about</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Services Section -->
+    <url>
+        <loc>https://sourcek.net/#services</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Community Section -->
+    <url>
+        <loc>https://sourcek.net/#community</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Partners Section -->
+    <url>
+        <loc>https://sourcek.net/#partners</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Testimonials Section -->
+    <url>
+        <loc>https://sourcek.net/#testimonials</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Academy Section -->
+    <url>
+        <loc>https://sourcek.net/#academy</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Careers Section -->
+    <url>
+        <loc>https://sourcek.net/#careers</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- FAQ Section -->
+    <url>
+        <loc>https://sourcek.net/#faq</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Contact Section -->
+    <url>
+        <loc>https://sourcek.net/#contact</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://sourcek.net/privacy.html</loc>
+        <lastmod>2024-10-19</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>
+
